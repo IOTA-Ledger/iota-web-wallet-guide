@@ -45,11 +45,11 @@ Most of the time a “double button press” will be denoted with two small line
 3. Visit https://semkodev.gitlab.io/romeo.html using Chrome or Opera to access the web wallet
 4. Select the “Ledger Nano” tab and then “Login with Ledger”
 5. The wallet will now grab one or more addresses from the Ledger Device, and the address will be displayed on the right
-6. The balance will appear beside the address on the right, and the total balance for the “page” will appear at the top next to this symbol: 
+6. The balance will appear beside the address on the right, and the total balance for the “page” will appear at the top next to this symbol: ![balance](/media/balance.png)
     - The Romeo web wallet uses “pages” as new seeds, so if it starts taking too long to sync the transactions, create a new page which will move everything to a brand new seed.
-7. In order to send a transaction click the green paper airplane icon along the top: 
+7. In order to send a transaction click the green paper airplane icon along the top: ![send](/media/send.png)
 8. Enter the output address, an (optional) tag, and the amount to send and press the big green button “Next: Select source addresses”
-    - If you would like to go back to the main screen, click on “Page 1” near the top of the screen: 
+    - If you would like to go back to the main screen, click on “Page 1” near the top of the screen: ![page1](/media/page1.png)
 9. By default “Automatic source selection” will most likely be used. If you have multiple addresses with balance and want to specifically choose which address to take funds from, deselect it to manually choose the input address(es) then click “Next: Confirm transfer”
 10. Review the transaction and click “Send transfer(s)”
 11. The wallet will then send the transaction bundle to the Ledger application. Once it is fully received, the device will display the transaction bundle on its screen beginning with the output amount.<br>
