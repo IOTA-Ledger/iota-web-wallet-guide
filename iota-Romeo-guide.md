@@ -63,12 +63,12 @@ A transaction involves a transfer of value to or from an address. There are thre
 IOTA sends transactions in "bundles". The bundles are comprised of input, output and change transactions. Bundles must have a net value (sum of inputs and outputs) of 0. 
 
 #### Bundle example:
-- Output: 50i
-- Input 1: 30i
-- Input 2: 40i
-- Change: 20i
+- Output: 50 i
+- Input 1: 30 i
+- Input 2: 40 i
+- Change: 20 i
 
-On their own, neither input address (30i and 40i) has enough balance to cover the output (50i) transaction, so both inputs must be used. This leaves a remainder of 20i (output minus inputs), which is sent to a new change address. The bundle is balanced, with a net value of 0.
+On their own, neither input address (30 i and 40 i) has enough balance to cover the output (50 i) transaction, so both inputs must be used. This leaves a remainder of 20 i (output minus inputs), which is sent to a new change address. The bundle is balanced, with a net value of 0.
 
 IOTA uses "change addresses" because once an address has been spent from, its signature is partially exposed. Address reuse could enable an attacker to forge the signature and steal any funds left on the address. It is essential that once you spend from an address, no more funds should be sent to that address. Most wallets, including Trinity, will ensure that you are protected from address reuse.
 
