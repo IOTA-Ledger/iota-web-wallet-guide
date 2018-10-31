@@ -1,6 +1,6 @@
 # Using Ledger Hardware Wallet With IOTA
 
-This guide explains how to secure IOTA tokens with a Ledger Nano S Hardware Wallet.
+This guide explains how to secure IOTA tokens with a Ledger Nano S device and the Romeo web wallet.
 
 If you have any questions or encounter any unexpected behaviour please contact the development team on the
  [IOTA Discord server](https://discord.gg/uUcqzUz).
