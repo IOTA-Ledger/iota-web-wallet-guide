@@ -6,8 +6,8 @@ If you have any questions or encounter any unexpected behaviour please contact t
  [our Discord server](https://discordapp.com/invite/SEdaqG9).
 
 ### You will need:
-1. Ledger Nano S already initialized with [up-to-date firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113)
-2. IOTA currency
+1. Ledger Nano S already initialized with [up-to-date firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113).
+2. IOTA currency.
 
 ### Installation:
 1. Install the [Ledger Live](https://www.ledger.com/pages/ledger-live) application.
@@ -102,4 +102,4 @@ When using other currencies with a Ledger device you only need to verify the des
 #### Extra notes:
 - Pressing both buttons on any output/input/change transaction will toggle between abbreviated and full amounts (eg. 5.23 Ki will then read 5,232 i). Pressing both buttons on any address screen will toggle between abbreviated and full addresses. A checksum (the last 9 characters of the address) is displayed for simpler address verification.
 - When transferring between two seeds both controlled by the Ledger device, no change transaction will be displayed. You must verify that the "Output:" transaction is being sent to the address previously displayed on the Ledger device.
-- When displaying a full input or change address, scroll to the bottom to view the BIP path used to generate that address. It will look something like `2c’|107a’|0’|0’`. The device uses this path to define which seed the address belongs to.
+- When displaying a full input or change address, scroll to the bottom to view the BIP path used to generate that address. It will look something like `2c'|107a'|0'|0'`. The device uses this path to define which seed the address belongs to.
