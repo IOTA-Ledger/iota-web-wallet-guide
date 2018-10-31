@@ -2,8 +2,8 @@
 
 This guide explains how to secure IOTA tokens with a Ledger Nano S Hardware Wallet.
 
-If you have any questions or encounter any unexpected behaviour please contact the development team on
- [our Discord server](https://discordapp.com/invite/SEdaqG9).
+If you have any questions or encounter any unexpected behaviour please contact the development team on the
+ [IOTA Discord server](https://discord.gg/uUcqzUz).
 
 ### You will need:
 1. Ledger Nano S already initialized with [up-to-date firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113).
@@ -15,7 +15,7 @@ If you have any questions or encounter any unexpected behaviour please contact t
 3. Once set up, click "Manager" in the left-hand menu and follow the instructions.
 4. Find IOTA and click "Install".
 
-The IOTA app should now be installed. If you encountered an error during installation, it could mean your device is not up to date, or that it has insufficient space. If you run into any issues, get in touch on [our Discord server](https://discordapp.com/invite/SEdaqG9), and we will try to help you.
+The IOTA app should now be installed. If you encountered an error during installation, it could mean your device is not up to date, or that it has insufficient space. If you run into any issues, get in touch on the [IOTA Discord server](https://discord.gg/uUcqzUz), and we will try to help you.
 
 ## Usage
 In the IOTA app the left button is used to navigate up in the menu, the right button to navigate down, and both buttons simultaneously to "confirm" or "go back".
