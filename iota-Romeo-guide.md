@@ -36,14 +36,10 @@ What button(s) to press and when should be intuitive.
     - If you would like to go back to the main screen, click on "Page 1" near the top of the screen: ![page1](/media/page1.png)
 9. "Automatic source selection" will be used by default. If you have multiple addresses with balance and want to specifically choose which address to use as inputs, deselect this setting and manually choose the input address(es). Then click "Next: Confirm transfer".
 10. Review the transaction and click "Send transfer(s)".
-11. The Ledger device will display the full transaction bundle. You MUST understand what this means, so that you can verify your transaction on the device. 
-
-Please read [Terminology](#terminology) and [Security](#security) before continuing.
-
-Please note, Romeo does not currently display address checksums. This is fine - just verify the address the old-fashioned way, checking letter by letter.
-
+11. The Ledger device will display the full transaction bundle. You MUST understand what this means, so that you can verify your transaction on the device.<br>
+Please read [Terminology](#terminology) and [Security](#security) before continuing.<br>
+Please note, Romeo does not currently display address checksums. This is fine - just verify the address the old-fashioned way, checking letter by letter.<br>
 Use the right button to scroll through the whole transaction bundle, and then select either "Approve" or "Deny".
-
 12. If you selected approve, your Ledger device will generate the required signatures and send them to the host machine to be broadcast to the Tangle.
 13. After a few moments, verify that your transaction was successfully broadcast to the network using a Tangle explorer (e.g. https://thetangle.org or https://iotasear.ch).
 
